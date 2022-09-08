@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Airpods Wireless Bluetooth Headphones",
+    "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+    "price": 89.99
+  },
+  {
+    "id": "2",
+    "name": "iPhone 11 Pro 256GB Memory",
+    "description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+    "price": 599.99
+  },
+  {
+    "id": "3",
+    "name": "Cannon EOS 80D DSLR Camera",
+    "description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+    "price": 929.99
+  },
+  {
+    "id": "4",
+    "name": "Sony Playstation 4 Pro White Version",
+    "description": "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
+    "price": 399.99
+  },
+  {
+    "id": "5",
+    "name": "Srikar product updated",
+    "description": "🔥 NEW: Best product in the market, no questions asked!",
+    "price": 500000000.69
+  },
+  {
+    "id": "e29972e9-267b-4e84-97df-6516a3868019",
+    "name": "Srikar product 2",
+    "description": "Best product in the market, no questions asked!",
+    "price": 50000000.69
+  },
+  {
+    "id": "ccb8a310-979d-4308-ab91-1228f519a12a",
+    "name": "Srikar product 2",
+    "description": "Best product in the market, no questions asked!",
+    "price": 50000000.69
+  }
+]
